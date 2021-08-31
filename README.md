@@ -11,7 +11,7 @@
 
 ## Overview
 
-![screenshot](/home/jibril/Desktop/Challenges/devchallenges/ch1/404-not-found-master/screenshot/desktop.png)
+![screenshot](/404-not-found-master/screenshot/desktop.png)
 
 ### Built With
 

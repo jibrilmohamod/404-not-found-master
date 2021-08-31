@@ -44,15 +44,22 @@ article {
     place-items: center;
 }
 
-a {
+section a {
     text-decoration: none;
     color: aliceblue;
 }
 
+footer {
+    position: relative;
+    bottom: -40px;
+    text-align: center;
+    font-size: 10px;
+}
+
 @media screen and (max-width: 375px) {
     html {
-        height: 949px;
-        border: 1px solid red;
+        /* height: 949px; */
+        /* border: 1px solid red; */
     }
     main {
         display: flex;
